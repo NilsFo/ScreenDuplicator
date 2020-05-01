@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ScreenDublicator:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="ScreenDublicator.jar">
+      <element id="module-output" name="ScreenDublicator" />
+    </root>
+  </artifact>
+</component>
