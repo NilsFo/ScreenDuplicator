@@ -1,4 +1,4 @@
-# Neo Time Overlay
+# Screen Duplcator
 
 An old *Java* based application, bult during my early years of Java development.
 Archived via GitHub and retrace my roots.
